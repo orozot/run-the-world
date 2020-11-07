@@ -51,10 +51,9 @@ export default {
       position: "top",
       audioDisable: false,
       formData: {
-        appId: "59865d77b0774560b32e5772f0b9a592",
-        token:
-          "00659865d77b0774560b32e5772f0b9a592IADsu/Ei7eNf8nZkNenxhrkKzfB+0kfaSO9ACufpGV8wwB1nXEQAAAAAEABJgS3VYpKlXwEAAQBhkqVf",
-        channel: "orozot",
+        appId: "",
+        token: "",
+        channel: "",
         uid: ""
       }
     };
